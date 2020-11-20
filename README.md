@@ -3,7 +3,6 @@
 #### I do...
 - 🚧 build dumb things.
 - ❤️ love memes and shitposts.
-- ❤️ love PHP.
 
 
 #### Find me on...
