@@ -1,10 +1,4 @@
-### I'm André 👋
+### Hi, I'm André (👋) and I'm out of ideas on what to write here...
 
-#### I do...
-- 🚧 build dumb things.
-- ❤️ love memes and shitposts.
-
-
-#### Find me on...
-
-[<img src="./discord-logo.svg" title="André#5360" width=30>]() [<img src="./twitter-logo.svg" width=30>](https://twitter.com/sousa_andre_) [<img src="./twitch-logo.svg" width=30>](http://twitch.tv/andre5360)
+#### Anyways, feel free to add me on 
+[<img src="./discord-logo.svg" title="André#5360" width=30>]() [<img src="./twitter-logo.svg" width=30>](https://twitter.com/sousa_andre_)
